@@ -92,6 +92,10 @@ section {
 
 /* Add a transparent effect */
 
+.transparent {
+ opacity: 0.95;
+}
+
 
 
 /* Styles just for h1 elements */
